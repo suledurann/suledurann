@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1 align="left">Hi👋</h1>
-
 ###
 
 <p align="left">My name is Şule and I'm a Programmer, live in from İstanbul</p>
